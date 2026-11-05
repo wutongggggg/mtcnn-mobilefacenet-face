@@ -1,0 +1,20 @@
+# build & project outputs
+db/
+incremental_db/
+output_files/
+*.qws
+*.rpt
+*.summary
+*.sld
+Listings/
+Objects/
+*.hex
+*.obj
+*.lst
+*.m51
+*.lnp
+__pycache__/
+*.pyc
+save_model/
+*.pth
+.ipynb_checkpoints/
